@@ -1,0 +1,20 @@
+.container{
+    width: 15rem;
+    background-color: rgb(204, 202, 202);
+    margin: 2rem auto ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2rem;
+}
+.btn{
+    background-color: blue;
+    border-radius: 7px;
+    color: white;
+    margin: 5px auto;
+    width: 4rem;
+    height: 1.2rem;
+    font-weight: 700;
+    border: none;
+    outline: none;
+}

@@ -1,0 +1,54 @@
+.signup-container {
+  width: 15rem;
+  background-color: rgb(204, 202, 202);
+  margin: 2rem auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding:1rem 1rem 4rem;
+}
+.inputs {
+    width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 10px 0;
+}
+.span{
+    font-weight: 900;
+}
+
+.forklift-header{
+    width: 100%;
+    text-align: left;
+}
+
+.radioDiv{
+    display: flex;
+    align-self: flex-start;
+    margin-top: -1.3rem;
+
+}
+.input-radio{
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+}
+.radioSpan{
+    font-size: 1.2rem;
+    font-weight: 700;
+}
+.create{
+    width: 100%;
+    text-align: left;
+}
+.create-btn{
+     border-radius: 7px;
+    color: white;
+    font-size: 1rem;
+    background-color: gray;
+    margin: 5px auto;
+    width: 5rem;
+    height: 1.5rem;
+    border: 1.5px solig black;
+}
