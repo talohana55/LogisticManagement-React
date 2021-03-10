@@ -3,7 +3,7 @@ A system for managing a logistics warehouse that contains employees identified
 by the system with a number id of employees,You can register as a new employee.
 Every employee has certain traits and depending on these traits there are possible actions.
 
-Possible login as Admin and manage the list of employees, tracking their actions
+Possible login as Admin and manage the list of employees and tracking their actions.
 
 ![צילום מסך 2021-03-10 193259](https://user-images.githubusercontent.com/68163421/110672673-90f7a580-81d8-11eb-812b-9206af08dc1d.png)
 
